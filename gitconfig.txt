@@ -1,0 +1,3 @@
+git config --global user.name Milene
+git config --global user.email simaomilene2810@gmail.com
+
