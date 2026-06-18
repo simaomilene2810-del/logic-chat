@@ -77,6 +77,7 @@ function enviarMensagem() {
 // ETAPA 3
 // Separe o programa em funções menores.
 
+
 // ETAPA 4
 // Guarde mensagens em um array e renderize usando repetição.
 
